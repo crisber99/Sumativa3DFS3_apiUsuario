@@ -1,0 +1,12 @@
+com\example\api_control_usuario\Rol\RolesService.class
+com\example\api_control_usuario\Usuario\Usuarios.class
+com\example\api_control_usuario\Usuario\UsuariosService.class
+com\example\api_control_usuario\Exception\ForoNotFoundException.class
+com\example\api_control_usuario\Usuario\UsuarioAuth.class
+com\example\api_control_usuario\ControlUsuarioApplication.class
+com\example\api_control_usuario\Rol\Roles.class
+com\example\api_control_usuario\Rol\RolesRepository.class
+com\example\api_control_usuario\Rol\RolesController.class
+com\example\api_control_usuario\Exception\ErrorResponse.class
+com\example\api_control_usuario\Usuario\UsuariosRepository.class
+com\example\api_control_usuario\Usuario\UsuariosController.class
