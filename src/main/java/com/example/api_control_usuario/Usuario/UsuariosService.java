@@ -27,7 +27,7 @@ public class UsuariosService {
 
     public Usuarios getLogin(String rut, String pass){
         return userRepo.findByLogin(rut, pass);
-    }
+    }   
 
     public Usuarios updUsuario(Long id, Usuarios user){
         if(userRepo.existsById(id)){
